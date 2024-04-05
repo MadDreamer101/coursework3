@@ -1,0 +1,15 @@
+{
+    "name": "ProSkill Tutor",
+    "short_name": "prosky",
+    "description": "very good app I recommend it",
+    "icons":[
+        {
+            "src": "images/cutelogo.png",
+            "sizes": "512x512",
+            "type": "images/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
